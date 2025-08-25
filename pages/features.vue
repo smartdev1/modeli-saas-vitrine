@@ -41,7 +41,7 @@
           Prêt à découvrir toutes ces fonctionnalités ?
         </h2>
         <p class="text-xl text-gray-600 mb-8">
-          Essayez MODELI gratuitement pendant 14 jours
+          Essayez MODELI pendant 14 jours
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
           <NuxtLink to="/contact" class="btn-primary text-lg px-8 py-4">
