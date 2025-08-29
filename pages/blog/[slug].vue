@@ -19,7 +19,7 @@
           <div class="flex items-center justify-center space-x-4 text-sm text-gray-500">
             <span>Par {{ article.author }}</span>
             <span>•</span>
-            <span>{{ article.readTime }} min de lecture</span>
+            <span>{{ article.readTime }} minutes de lecture</span>
           </div>
         </div>
       </div>
